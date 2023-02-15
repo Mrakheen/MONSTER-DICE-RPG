@@ -11,7 +11,7 @@
 ### >> The Player can Attack or Disarm both the Monsters (if both in range) or one of the Monsters (if one of them in range).
 ### >> To be in range the Monster(s) must be in adjacent grid block to the Player grid block.
 ### >> The Player's Attack can be a hit or a miss depending on the number generated using the input of d20 in rolldice function in GameUtility.
-### >> The Player's Attack damage depends on the value of its dice of its choosen weapon (example d18). 
+### >> The Player's Attack damage depends on the value of its dice of its choosen weapon (example 1d18). 
 ### >> A Monster will attempt to Attack the Player everytime the Player Attacks a Monster (doesn't matter if the Player hit or misses) or everytime a Player Disarms the Monster.
 ### >> The Monster can also hit or miss its Attack depending on the number generated using the input of d20 in rolldice function in GameUtility.
 ### >> Everytime the Player Moves, Attacks, or Disarms a Monster or Monsters, both the Monsters moves by 1 grid block in a random direction (Up, Down, Left, or Right). 
